@@ -1,4 +1,4 @@
-### Hi, I'm Santiago 👋
+### Hi, I'm Santihs 👋
 
 Software engineer from Bolivia 🇧🇴 building SaaS products and AI-assisted engineering workflows.
 C#/.NET · TypeScript · Python · SQL — I care about clean architecture, POCs that end in decisions,
